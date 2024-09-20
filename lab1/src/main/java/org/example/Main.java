@@ -7,7 +7,7 @@ public class Main {
 
     private static double averageLength = 0;
 
-    private static void countAverageWidth(String[] input) {
+    static void countAverageWidth(String[] input) {
         for (String str : input) {
             averageLength += str.length();
         }
@@ -30,6 +30,10 @@ public class Main {
         }
 
         return result.toArray(new String[0]);
+    }
+
+    public static double getAverageLength() {
+        return averageLength;
     }
 
     public static void main(String[] args) {
