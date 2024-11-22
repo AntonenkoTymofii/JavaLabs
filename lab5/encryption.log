@@ -1,0 +1,122 @@
+лист. 08, 2024 8:41:05 ПП org.example.StreamEncryptor encryptFile
+INFO: Starting encryption for file: test.txt
+лист. 08, 2024 8:41:05 ПП org.example.StreamEncryptor encryptFile
+SEVERE: Encryption failed: test.txt (The system cannot find the file specified)
+лист. 08, 2024 8:41:05 ПП org.example.StreamEncryptor execute
+WARNING: Execution failed due to an IOException.
+лист. 08, 2024 8:41:43 ПП org.example.StreamEncryptor encryptFile
+INFO: Starting encryption for file: src/main/resources/test.txt
+лист. 08, 2024 8:41:43 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption completed successfully for file: src/main/resources/test1.txt
+лист. 08, 2024 8:41:47 ПП org.example.StreamEncryptor decryptFile
+INFO: Starting decryption for file: src/main/resources/test1.txt
+лист. 08, 2024 8:41:47 ПП org.example.StreamEncryptor decryptFile
+INFO: Decryption completed successfully for file: src/main/resources/test2.txt
+лист. 08, 2024 8:49:07 ПП org.example.StreamEncryptor encryptFile
+INFO: Starting encryption for file: src/main/resources/test.txt
+лист. 08, 2024 8:49:07 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption completed successfully for file: src/main/resources/test1.txt
+лист. 08, 2024 8:49:16 ПП org.example.StreamEncryptor decryptFile
+INFO: Starting decryption for file: src/main/resources/test1.txt
+лист. 08, 2024 8:49:16 ПП org.example.StreamEncryptor decryptFile
+INFO: Decryption completed successfully for file: src/main/resources/test2.txt
+лист. 08, 2024 8:53:16 ПП org.example.StreamEncryptor encryptFile
+INFO: Starting encryption for file: src/main/resources/test.txt
+лист. 08, 2024 8:53:16 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption completed successfully for file: src/main/resources/test1.txt
+лист. 08, 2024 8:53:21 ПП org.example.StreamEncryptor decryptFile
+INFO: Starting decryption for file: src/main/resources/test1.txt
+лист. 08, 2024 8:53:21 ПП org.example.StreamEncryptor decryptFile
+INFO: Decryption completed successfully for file: src/main/resources/test2.txt
+лист. 08, 2024 8:54:16 ПП org.example.StreamEncryptor encryptFile
+INFO: Starting encryption for file: e
+лист. 08, 2024 8:54:16 ПП org.example.StreamEncryptor encryptFile
+SEVERE: Encryption failed: e (The system cannot find the file specified)
+лист. 08, 2024 8:54:16 ПП org.example.StreamEncryptor execute
+WARNING: Execution failed due to an IOException.
+лист. 08, 2024 8:55:03 ПП org.example.StreamEncryptor encryptFile
+INFO: Starting encryption for file: src/main/resources/test.txt
+лист. 08, 2024 8:55:03 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption completed successfully for file: src/main/resources/test1.txt
+лист. 08, 2024 8:55:06 ПП org.example.StreamEncryptor decryptFile
+INFO: Starting decryption for file: src/main/resources/test1.txt
+лист. 08, 2024 8:55:06 ПП org.example.StreamEncryptor decryptFile
+INFO: Decryption completed successfully for file: src/main/resources/test2.txt
+лист. 08, 2024 8:59:26 ПП org.example.StreamEncryptor encryptFile
+INFO: Starting encryption for file: src/main/resources/test.txt
+лист. 08, 2024 8:59:26 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption completed successfully for file: src/main/resources/test1.txt
+лист. 08, 2024 8:59:33 ПП org.example.StreamEncryptor decryptFile
+INFO: Starting decryption for file: src/main/resources/test1.txt
+лист. 08, 2024 8:59:33 ПП org.example.StreamEncryptor decryptFile
+INFO: Decryption completed successfully for file: src/main/resources/test2.txt
+лист. 09, 2024 5:40:30 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption failed:src/main/resources/test.txt
+лист. 09, 2024 5:40:30 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption and decryption completed.src/main/resources/test1.txt
+лист. 09, 2024 5:40:33 ПП org.example.StreamEncryptor decryptFile
+INFO: Decryption failed:src/main/resources/test1.txt
+лист. 09, 2024 5:47:15 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption failed:src/main/resources/test1.txt
+лист. 09, 2024 5:47:15 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption and decryption completed.src/main/resources/test2.txt
+лист. 09, 2024 5:47:26 ПП org.example.StreamEncryptor decryptFile
+INFO: Decryption failed:src/main/resources/test2.txt
+лист. 09, 2024 5:47:50 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption failed:src/main/resources/test.txt
+лист. 09, 2024 5:47:50 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption and decryption completed.src/main/resources/test1.txt
+лист. 09, 2024 5:47:55 ПП org.example.StreamEncryptor decryptFile
+INFO: Decryption failed:src/main/resources/test1.txt
+лист. 09, 2024 5:50:19 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption failed:src/main/resources/test.txt
+лист. 09, 2024 5:50:19 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption and decryption completed.src/main/resources/test1.txt
+лист. 09, 2024 5:50:22 ПП org.example.StreamEncryptor decryptFile
+INFO: Decryption failed:src/main/resources/test1.txt
+лист. 09, 2024 6:00:42 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption failed for file:encryption_completed=Шифрування завершено для файлу:
+лист. 09, 2024 6:00:42 ПП org.example.StreamEncryptor encryptFile
+SEVERE: Encryption failed for file:encryption_completed=Шифрування завершено для файлу: (The filename, directory name, or volume label syntax is incorrect)
+лист. 09, 2024 6:00:42 ПП org.example.StreamEncryptor execute
+WARNING: Execution failed due to an error:
+лист. 09, 2024 6:01:07 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption failed for file:src/main/resources/test.txt
+лист. 09, 2024 6:01:07 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption completed for file:src/main/resources/test1.txt
+лист. 09, 2024 6:01:10 ПП org.example.StreamEncryptor decryptFile
+INFO: Decryption failed for file:src/main/resources/test1.txt
+лист. 09, 2024 6:01:10 ПП org.example.StreamEncryptor decryptFile
+INFO: Decryption completed for file:src/main/resources/test2.txt
+лист. 09, 2024 6:04:09 ПП org.example.StreamEncryptor encryptFile
+INFO: ?? ??????? ??????????? ????:src/main/resources/test.txt
+лист. 09, 2024 6:04:09 ПП org.example.StreamEncryptor encryptFile
+INFO: ?????????? ????????? ??? ?????:src/main/resources/test1.txt
+лист. 09, 2024 6:04:12 ПП org.example.StreamEncryptor decryptFile
+INFO: ?? ??????? ???????????? ????:src/main/resources/test1.txt
+лист. 09, 2024 6:04:12 ПП org.example.StreamEncryptor decryptFile
+INFO: ????????????? ????????? ??? ?????:src/main/resources/test2.txt
+лист. 09, 2024 6:30:35 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption failed for file:src/main/resources/test.txt
+лист. 09, 2024 6:30:35 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption completed for file:src/main/resources/test1.txt
+лист. 09, 2024 6:30:39 ПП org.example.StreamEncryptor decryptFile
+INFO: Decryption failed for file:src/main/resources/test1.txt
+лист. 09, 2024 6:30:39 ПП org.example.StreamEncryptor decryptFile
+INFO: Decryption completed for file:src/main/resources/test2.txt
+лист. 09, 2024 6:44:01 ПП org.example.StreamEncryptor encryptFile
+INFO: Échec du chiffrement pour le fichier :src/main/resources/test.txt
+лист. 09, 2024 6:44:01 ПП org.example.StreamEncryptor encryptFile
+INFO: Chiffrement terminé pour le fichier :src/main/resources/test1.txt
+лист. 09, 2024 6:44:04 ПП org.example.StreamEncryptor decryptFile
+INFO: Échec du déchiffrement pour le fichier :src/main/resources/test1.txt
+лист. 09, 2024 6:44:04 ПП org.example.StreamEncryptor decryptFile
+INFO: Déchiffrement terminé pour le fichier :src/main/resources/test2.txt
+лист. 15, 2024 12:48:05 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption failed for file:src/main/resources/test.txt
+лист. 15, 2024 12:48:05 ПП org.example.StreamEncryptor encryptFile
+INFO: Encryption completed for file:src/main/resources/test2.txt
+лист. 15, 2024 12:48:13 ПП org.example.StreamEncryptor decryptFile
+INFO: Decryption failed for file:src/main/resources/test2.txt
+лист. 15, 2024 12:48:13 ПП org.example.StreamEncryptor decryptFile
+INFO: Decryption completed for file:src/main/resources/test1.txt

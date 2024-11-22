@@ -16,7 +16,7 @@ public class BookController {
     public BookController(BookView view) {
         this.view = view;
         this.books = new ArrayList<>();
-        generateBooks(); // Ініціалізація випадковими даними
+        generateBooks();
     }
 
     private void generateBooks() {
@@ -49,7 +49,7 @@ public class BookController {
             System.out.println("0. Вийти");
 
             int choice = scanner.nextInt();
-            scanner.nextLine(); // Очистка після вводу числа
+            scanner.nextLine();
 
             switch (choice) {
                 case 1:
